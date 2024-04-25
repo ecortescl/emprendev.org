@@ -32,7 +32,8 @@ Emprendev.org es una iniciativa que busca crear una comunidad de programadores y
 
 - Sitio web: [Emprendev.org](https://www.emprendev.org)
 - Email: [info@emprendev.org](mailto:info@emprendev.org)
-- Twitter: [@emprendev](https://twitter.com/emprendev)
-- Facebook: [Emprendev.org](https://www.facebook.com/emprendev.org)
+- Twitter: [@emprendev_](https://twitter.com/emprendev_)
+- Grupo Facebook: [Emprendev](web.facebook.com/groups/emprendev/)
+- Discord: [Servidor](https://discord.gg/cpHb6CdX5k)
 
 ¡Únete a Emprendev.org y comienza tu viaje como programador emprendedor hoy mismo!
