@@ -6,7 +6,7 @@
 
 ## Descripción
 
-Emprendev.org es una iniciativa que busca crear una comunidad de programadores y desarrolladores que desean emprender y crear soluciones digitales innovadoras. Nuestra plataforma ofrece cursos especializados en modelos de negocio, oportunidades de networking con otros emprendedores tecnológicos y un directorio de miembros desarrolladores que buscan ofrecerse como CTO para la creación de nuevas empresas.
+Emprendev.org es una iniciativa que busca crear una comunidad de programadores que desean emprender y crear soluciones digitales innovadoras. Nuestra plataforma ofrece cursos especializados en modelos de negocio, oportunidades de networking con otros emprendedores tecnológicos y un directorio de miembros desarrolladores que buscan ofrecerse como CTO para la creación de nuevas empresas.
 
 ## Características principales
 
@@ -35,5 +35,6 @@ Emprendev.org es una iniciativa que busca crear una comunidad de programadores y
 - Twitter: [@emprendev_](https://twitter.com/emprendev_)
 - Grupo Facebook: [Emprendev](web.facebook.com/groups/emprendev/)
 - Discord: [Servidor](https://discord.gg/cpHb6CdX5k)
+- Grupo Linkedin: [Emprendev](https://www.linkedin.com/groups/13023394/)
 
 ¡Únete a Emprendev.org y comienza tu viaje como programador emprendedor hoy mismo!
