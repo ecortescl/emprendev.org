@@ -5,14 +5,13 @@
     </div>
     <div class="z-10 text-center">
       <div class="relative">
-        <img src="/logo.svg" alt="Coming Soon" class="mx-auto mb-8 animate-move" width="500px" />
+        <img src="/logo.svg" alt="Coming Soon" class="mx-auto mb-8 animate-move" width="300px" />
 
 
       </div>
       <h1 class="mb-4 text-4xl font-bold">Sitio en Construcción</h1>
       <p class="mb-8 text-lg">Estamos trabajando en algo increíble. ¡Mantente al tanto!</p>
       <div class="mb-8">
-        <h2 class="mb-2 text-2xl font-bold">Contador</h2>
         <div class="flex justify-center space-x-4">
           <div class="p-4 bg-white rounded-lg shadow-md">
             <p class="text-4xl font-bold text-yellow-600">{{ days }}</p>
@@ -33,13 +32,29 @@
         </div>
       </div>
 
+      <!-- Tarjeta de invitación a Discord -->
+      <div class="mb-8">
+        <div class="p-6 bg-white rounded-lg shadow-md">
+          <h2 class="mb-4 text-2xl font-bold">Únete a nuestra comunidad en Discord</h2>
+          <p class="mb-4">Sé parte de nuestra vibrante comunidad y mantente conectado con otros miembros mientras
+            esperamos el lanzamiento.</p>
+          <a href="https://discord.gg/zrMahBCXVN" target="_blank"
+            class="inline-block px-6 py-2 text-white bg-indigo-600 rounded-lg hover:bg-indigo-700">Unirse a Discord</a>
+        </div>
+      </div>
 
-      <form @submit.prevent="submitForm">
+
+      <form @submit.prevent="submitForm" class="mb-10">
         <input type="email" v-model="email" placeholder="Ingresa tu correo electrónico"
           class="px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-yellow-600">
         <button type="submit"
           class="px-6 py-2 ml-4 text-white bg-yellow-600 rounded-lg hover:bg-yellow-700">Suscribirse</button>
       </form>
+
+      <p> Tecnologías: Nuxt3, Node & Tailwind - Hosting: <a href="https://clientes.v2networks.cl/aff.php?aff=177"
+          target="_blank" rel="noopener noreferrer"> v2Network</a> & <a href="https://cloudflare.com" target="_blank"
+          rel="noopener noreferrer">Cloudflare</a>
+      </p>
     </div>
   </div>
 </template>
